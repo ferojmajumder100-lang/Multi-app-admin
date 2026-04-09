@@ -15,11 +15,11 @@
         "device_id": "225abd49e5b0673d",
         "key": "da support",
         "expirydate": "31-12-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
-        "device_id": "device456",
-        "key": "key67890",
+        "device_id": "34e6180fc19ffa77",
+        "key": "kamrul",
         "expirydate": "15-06-2025",
         "Allowoffline": false
     }
